@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2652-sum-multiples) |
 ## Hash Table
 |  |
 | ------- |
