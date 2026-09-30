@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 ## Bit Manipulation
