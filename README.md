@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
