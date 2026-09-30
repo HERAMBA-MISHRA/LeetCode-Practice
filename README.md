@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3024-type-of-triangle) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
