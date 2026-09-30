@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2652-sum-multiples) |
+| [3024-type-of-triangle](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,10 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3024-type-of-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -52,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1486-xor-operation-in-an-array) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
