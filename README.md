@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1550-three-consecutive-odds) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3024-type-of-triangle) |
