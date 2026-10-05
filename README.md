@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0856-score-of-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3019-number-of-changing-keys](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3019-number-of-changing-keys) |
@@ -91,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0682-baseball-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0856-score-of-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
