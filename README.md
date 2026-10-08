@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3019-number-of-changing-keys](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3019-number-of-changing-keys) |
+| [3838-weighted-word-mapping](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 ## Queue
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3838-weighted-word-mapping](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2974-minimum-number-game) |
+| [3838-weighted-word-mapping](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
