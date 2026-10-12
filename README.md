@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0204-count-primes) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0204-count-primes](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -114,4 +116,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
