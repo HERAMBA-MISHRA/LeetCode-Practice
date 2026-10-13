@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3024-type-of-triangle) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
 | ------- |
