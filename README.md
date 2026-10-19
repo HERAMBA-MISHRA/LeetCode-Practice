@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3024-type-of-triangle) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
