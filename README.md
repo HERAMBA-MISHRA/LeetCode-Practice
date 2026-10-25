@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1486-xor-operation-in-an-array) |
+| [2409-count-days-spent-together](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2652-sum-multiples) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2409-count-days-spent-together](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
 | [3019-number-of-changing-keys](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3019-number-of-changing-keys) |
 | [3838-weighted-word-mapping](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 ## Queue
