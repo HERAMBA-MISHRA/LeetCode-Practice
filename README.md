@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2409-count-days-spent-together](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1550-three-consecutive-odds](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 <!---LeetCode Topics End-->
