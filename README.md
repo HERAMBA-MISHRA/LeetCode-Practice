@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
