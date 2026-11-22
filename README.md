@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
 | [3019-number-of-changing-keys](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3019-number-of-changing-keys) |
 | [3838-weighted-word-mapping](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/3838-weighted-word-mapping) |
