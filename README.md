@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0507-perfect-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/0367-valid-perfect-square) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HERAMBA-MISHRA/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
